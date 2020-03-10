@@ -1,0 +1,1 @@
+Моя первая работа с HTML и CSS для вступительных заданий на курсы <epam> выполненная на базе предоставленного <a href="https://fe-2019-trainers.github.io/training-template/template/unvab.com/snow-free-html/index.html">сайта</a>
